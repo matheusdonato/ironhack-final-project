@@ -40,17 +40,6 @@
 ![image](https://user-images.githubusercontent.com/78570724/119031442-7cc2e800-b981-11eb-8601-2450efa7a3b0.png)
 
 
-
-# Cenário hipotético
-
-- produtividade da geração de energia solar por área - alemanha
-
------> pandas dataframe prod/area por pais
-
-- produtividade da geração de energia solar por área - alemanha aplicada a outros paises
-
------> pandas dataframe prod/area (alemanha) projetado para outros países
-
 - produção de energia - marrocos (matrizes energéticas)
 
 ![image](https://user-images.githubusercontent.com/78570724/119015224-19c85580-b96f-11eb-8c99-17e6d2f842fa.png)
@@ -59,17 +48,47 @@
 
 ![image](https://user-images.githubusercontent.com/78570724/119032163-40dc5280-b982-11eb-8cf3-13e5ac7b9b66.png)
 
+
+- produção de energia - norte da áfrica (matrizes energéticas)
+
+![image](https://user-images.githubusercontent.com/78570724/119017803-c1468780-b971-11eb-9bc4-db6e0d591bee.png)
+
+*others incluem majoritariamente fontes não renováveis como carvão, gás e petróleo.
+
+![image](https://user-images.githubusercontent.com/78570724/119033360-7f264180-b983-11eb-9df2-7e784a29926f.png)
+
+
+- produção de energia - brasil (matrizes energéticas)
+
+![image](https://user-images.githubusercontent.com/78570724/119018412-6e210480-b972-11eb-82e5-cabbfc0e315c.png)
+
+*others incluem majoritariamente fontes não renováveis como carvão, gás e petróleo.
+
+![image](https://user-images.githubusercontent.com/78570724/119034491-c234e480-b984-11eb-9931-fd1b902c5f37.png)
+
+
+
+# Cenário hipotético
+
+- produtividade da geração de energia solar por área - alemanha
+
+-----> pandas dataframe prod/area por pais
+
+
+
+- produtividade da geração de energia solar por área - alemanha aplicada a outros paises
+
+-----> pandas dataframe prod/area (alemanha) projetado para outros países
+
+
+
 - produção de energia - marrocos (matrizes energéticas, substituindo produção de energia solar por produtividade/área alemã aplicada à área do marrocos)
 
 -----> gráficos com produção energética hipotética solar
 
 -----> pandas dataframe com percentuais
 
-- produção de energia - norte da áfrica (matrizes energéticas)
 
-![image](https://user-images.githubusercontent.com/78570724/119017803-c1468780-b971-11eb-9bc4-db6e0d591bee.png)
-
-![image](https://user-images.githubusercontent.com/78570724/119033360-7f264180-b983-11eb-9df2-7e784a29926f.png)
 
 - produção de energia - norte da áfrica (matrizes energéticas, substituindo produção de energia solar por produtividade/área alemã aplicada à área do norte da áfrica)
 
@@ -77,17 +96,15 @@
 
 -----> pandas dataframe com percentuais
 
-- produção de energia - brasil (matrizes energéticas)
 
-![image](https://user-images.githubusercontent.com/78570724/119018412-6e210480-b972-11eb-82e5-cabbfc0e315c.png)
-
-![image](https://user-images.githubusercontent.com/78570724/119034491-c234e480-b984-11eb-9931-fd1b902c5f37.png)
 
 - produção de energia - brasil (matrizes energéticas, substituindo produção de energia solar por produtividade/área alemã aplicada à área do brasil)
 
 -----> gráficos com produção energética hipotética solar
 
 -----> pandas dataframe com percentuais
+
+
 
 # Conclusão
 
