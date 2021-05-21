@@ -58,7 +58,7 @@ Como me parecia ser o caso, os europeus tiveram os melhores resultados, com uma 
 
 - Produção de energia - mundo (matrizes energéticas)
 
-Apesar dos esforços, infelizemnte grande parte da energia produzida no mundo ainda é de origem não renovável.
+Apesar dos esforços, infelizmente grande parte da energia produzida no mundo ainda é de origem não renovável.
 
 ![image](https://user-images.githubusercontent.com/78570724/119001331-41fd8780-b962-11eb-8fe8-635dd904af0b.png)
 
