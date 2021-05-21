@@ -36,7 +36,7 @@ Para encontrar uma resposta a esses questionamentos utilizei dados das Nações 
 
 Os dados foram limpos e pré-processados utilizando Python, em especial a biblioteca Pandas.
 
-Os gráficos foram gerados no Tableau.
+Os gráficos foram gerados no Tableau. ( https://public.tableau.com/profile/matheus.donato#!/ )
 
 
 
