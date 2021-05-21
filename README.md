@@ -1,6 +1,6 @@
 # ironhack-final-project
 
-# Análise Exploratória de Dados sobre Energia Solar
+# Análise exploratória de dados acerca da produção de energia solar
 ![image](https://user-images.githubusercontent.com/78570724/119060980-abed4f80-b9a9-11eb-9206-a4da3318f7d1.png)
 
 
